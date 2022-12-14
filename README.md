@@ -13,3 +13,8 @@
   5)\frontend\controllers\SiteController.php -- контролер 
   6) frontend\components\Common.php -- все функции 
   7) \frontend\views\site  -- это вьюхи их не много 
+
+
+По ТЗ: 
+1) БД проверяет на измение и записывает при переходе. Не стал ставить временные рамки. 
+2) Ajax не использовал , к сожалению только в пути )
