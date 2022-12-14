@@ -1,0 +1,52 @@
+body {
+    background-color: #ff84b9;
+}
+.checkbox_val {
+    width: 50%;
+
+}
+
+.btn_ajax {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px auto;
+}
+.currency_show {
+    background-color: #134b57;
+    padding: 10px;
+    margin: 10px auto;
+    margin-left: 5px;
+    border-radius: 15px;
+    border: 2px #25cff2 solid;
+
+ }
+
+.list-group_currency_show{
+
+
+}
+.currency_show:hover {
+    transform: scale(1.12);
+}
+.content_currency {
+    color: white;
+}
+
+.content_currency_name {
+    min-height: 76px;
+}
+
+.content_currency_comparison {
+    border-radius: 15px;
+    border: 2px #25cff2 solid;
+}
+.content_currency_2 {
+    text-align: center;
+}
+
+.сhoiceСurrency {
+
+
+}
+
